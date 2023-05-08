@@ -1,6 +1,6 @@
 package homeworks;
 
-public class HomeworkTeacher {
+public class HomeworkTeacherDay03 {
     public String name = "Mehmet";
     public byte age = 35;
 

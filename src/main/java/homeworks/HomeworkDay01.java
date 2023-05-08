@@ -1,6 +1,6 @@
 package homeworks;
 
-public class Homework01 {
+public class HomeworkDay01 {
     public static void main(String[] args) {
         //Homework1:
         int countryPopulation = 134665212;

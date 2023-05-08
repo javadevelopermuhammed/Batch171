@@ -33,6 +33,7 @@ public class MethodCreation01 {
         //main method static oldugu icin main method icinde kullanacagimiz method static olmalidir
     }
 
+
     //Ornek 2 sayiyi carpma islemi yapan bir method olusturun ve kullanin
     protected static long multiply(int a, int b) {
         return a * b;

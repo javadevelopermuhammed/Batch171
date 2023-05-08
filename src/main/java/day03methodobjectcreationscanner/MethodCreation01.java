@@ -29,6 +29,7 @@ public class MethodCreation01 {
 
 
 
+
     }
 
     private static void getSquare(int c) {

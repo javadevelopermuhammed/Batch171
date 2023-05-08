@@ -1,9 +1,9 @@
 package homeworks;
 
-public class HomeworkRunner {
+public class HomeworkRunnerDay03 {
 
     public static void main(String[] args) {
-        HomeworkTeacher myTeacher = new HomeworkTeacher();
+        HomeworkTeacherDay03 myTeacher = new HomeworkTeacherDay03();
         System.out.println("myTeacher.name = " + myTeacher.name);
         System.out.println("myTeacher.age = " + myTeacher.age);
         myTeacher.teach();

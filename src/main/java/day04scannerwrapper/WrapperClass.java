@@ -24,6 +24,29 @@ public class WrapperClass {
         short minShort = Short.MIN_VALUE;
         System.out.println("minShort = " + minShort);
 
+        //Ornek 2: int data type inin minumum degeri ile byte data type inin maximum degerinin toplamini bulunuz
+        int minInt = Integer.MIN_VALUE;
+        byte maxByte = Byte.MAX_VALUE;
+        System.out.println(minInt+maxByte);
+
+        //Ornek 3: Primitive int i  wrapper Integer a ceviriniz.(Autoboxing)
+        int num = 12;
+        Integer wrapperNum = num;
+
+        //Ornek 4: Wrapper Byte i primtive byte a ceviriniz.(Unboxing)
+        Byte k = 12;
+        System.out.println(k);
+        byte primitiveK = k;
+        System.out.println(primitiveK);
+
+        //Ornek 5: primitive char ı Wrapper Character e ceviriniz.
+        char inital = 'm';
+        Character initalWrapper = inital;
+
+        //Ornek 6: Wrapper Boolean i primitive boolean a ceviriniz
+        Boolean sensor = true;
+        boolean sensorP = sensor;
+
 
     }
 }

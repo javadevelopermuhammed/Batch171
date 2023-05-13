@@ -23,8 +23,5 @@ public class Scanner01 {
 
         System.out.println(firstName+" "+lastName);//ali can
 
-
-
-
     }
 }

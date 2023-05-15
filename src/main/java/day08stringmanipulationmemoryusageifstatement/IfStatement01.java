@@ -16,7 +16,7 @@ public class IfStatement01 {
 
         //Ornek 1: Sayi pozitif ise ekrana pozitif yazdirin
 
-        int num= -13;
+        int num= 13;
 
         if(num>0){
             System.out.println(num+" ==> pozitiftir");
@@ -27,7 +27,7 @@ public class IfStatement01 {
         int n = 5;
 
         if(n>-1 && n<10){
-            System.out.println(n+"Rakam");
+            System.out.println(n+" ==> Rakam");
         }
     }
 

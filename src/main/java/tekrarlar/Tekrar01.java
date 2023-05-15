@@ -71,9 +71,9 @@ public class Tekrar01 {
         if (num1>0){
             System.out.println("It is positive");
         }
-        //Ornek 2: Sayi -1 il 10 arasinda ise ekrana Rakam yazdirin
-        int num2 = 6;
-        if (num2>-1&&num2<10){
+        //Ornek 2: Sayi 15 il 30 arasinda ise ekrana Sayi yazdirin
+        int num2 = 23;
+        if (num2>15&&num2<30){
             System.out.println("It is number");
         }
 

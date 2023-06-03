@@ -2,7 +2,7 @@ package day15loops;
 
 import java.util.Scanner;
 
-public class NestedLoops01 {
+public class NestedLoops {
     public static void main(String[] args) {
         /*
         Example 1: Asagidaki sekli cizen kodu yaziniz
